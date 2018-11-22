@@ -1,0 +1,34 @@
+
+======================================================
+11/13/18-16:20:21dzda1
+======================================================
+纾佺洏绌洪棿瓒呰繃 80% on dzda1
+文件系统	      容量  已用  可用 已用%% 挂载点
+/dev/mapper/vg_root-lv_root
+                       98G   88G  5.2G  95% /
+tmpfs                 7.8G  5.1G  2.8G  65% /dev/shm
+/dev/sda2             194M   65M  120M  36% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                       15G  4.6G  9.2G  33% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  391M   14G   3% /var
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G  2.0G   17G  11% /dbhome
+/dev/mapper/vg_dzdadbflash-lv_dzdadbflash
+                       20G  182M   19G   1% /dzdadb/flash_recovery_area
+/dev/mapper/vg_dzdadbdat-lv_dzdadbdat
+                      2.0T  156G  1.7T   9% /dzdadb/oradat
+/dev/mapper/vg_dzdadblogredoa-lv_dzdadblogredoa
+                      9.9G  2.2G  7.3G  23% /dzdadb/oralog/redoa
+/dev/mapper/vg_dzdadblogredob-lv_dzdadblogredob
+                      9.9G  2.2G  7.3G  23% /dzdadb/oralog/redob
+/dev/mapper/vg_dzdadblogarc-lv_dzdadblogarc
+                       50G  180M   47G   1% /dzdadb/oralog/arc
+/dev/mapper/vg_dzdadbbak-lv_dzdadbbak
+                      394G  199M  374G   1% /dzdadb/orabak
+/dev/mapper/vg_dzda-lv_dzda
+                      3.8T  351G  3.3T  10% /gdda_files
+192.170.17.11:/dataMoveFile
+                      443G  164G  258G  39% /dataMoveFile
+********************************

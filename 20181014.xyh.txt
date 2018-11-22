@@ -1,0 +1,462 @@
+
+======================================================
+10/14/18-09:44:17Jkdb1
+======================================================
+disk used is warning
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg_root-lv_root
+                      499G  435G   39G  92% /
+/dev/mapper/vg_root-lv_usr
+                       15G  4.2G  9.3G  31% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  368M   14G   3% /var
+/dev/sda1             190M   21M  160M  12% /boot
+tmpfs                 3.7G  4.0K  3.7G   1% /dev/shm
+none                  3.7G  104K  3.7G   1% /var/lib/xenstored
+**********************************
+
+======================================================
+10/14/18-09:30:03cgdb2
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+         6                                                                      
+********************************
+
+======================================================
+10/14/18-10:10:03ecifdb2
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+         6                                                                      
+********************************
+
+======================================================
+10/14/18-09:40:05fpserver1
+**********************************
+
+======================================================
+10/14/18-10:10:03gj1
+********************************
+
+======================================================
+10/14/18-09:18:14glkjdb1
+======================================================
+used over 80
+*****************************************
+
+======================================================
+10/14/18-10:02:01hdp1
+======================================================
+±®æØ»’÷æ¥ÌŒÛ
+======================================================
+¥≈≈Ãø’º‰≥¨π˝ 80% on hdp1
+Œƒº˛œµÕ≥	      »›¡ø  “—”√  ø…”√ “—”√%% π“‘ÿµ„
+/dev/mapper/vg_root-lv_root
+                       49G   14G   32G  31% /
+tmpfs                 253G   84G  170G  33% /dev/shm
+/dev/sda2             194M   32M  153M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                      9.7G  4.2G  5.0G  46% /usr
+/dev/mapper/vg_root-lv_var
+                      9.7G  451M  8.7G   5% /var
+/dev/mapper/vg_root-lv_oracle
+                       50G   24G   24G  50% /oracle
+/dev/mapper/vg_backup-lv_backup
+                      2.6T  598G  1.9T  24% /backup
+/dev/mapper/vg_datanew-lv_datanew
+                       14T   13T  226G  99% /oradata
+/dev/mapper/vg_data1-lv_data1
+                      6.0T  4.2T  1.6T  73% /data1
+/dev/mapper/vg_data2-lv_data2
+                      5.2T  3.6T  1.4T  72% /data2
+/dev/mapper/vg_data3-lv_data3
+                      6.1T  4.3T  1.6T  74% /data3
+/dev/mapper/vg_data4-lv_data4
+                      7.3T  4.3T  2.7T  62% /data4
+/dev/mapper/vg_data5-lv_data5
+                      4.5T  2.9T  1.5T  68% /data5
+/dev/mapper/vg_data6-lv_data6
+                      9.4T  8.2T  782G  92% /data6
+/dev/mapper/vg_ckbx-lv_ckbx
+                      9.2T  5.2T  3.6T  60% /ckbx
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+       228                                                                      
+======================================================
+ø…”√±Ìø’º‰µÕ”⁄∞Ÿ∑÷÷Æ∂˛ Æ
+HDM_DATA_DPF                                                         .817533784                                                                                                                         
+HDM_INDEX_BI                                                         .895853125                                                                                                                         
+ODM_INDEX                                                            .979726065                                                                                                                         
+HDM_DATA                                                             .945721133                                                                                                                         
+HDM_INDEX_BI                                                            .876235                                                                                                                         
+HDM_INDEX_DP                                                         .854633333                                                                                                                         
+HDM_DATA_DPF                                                           .8200625                                                                                                                         
+HDM_DATA_DPF                                                           .9000625                                                                                                                         
+HDM_DATA_DPF                                                           .9160625                                                                                                                         
+HDM_DATA_DPF                                                         .881571948                                                                                                                         
+DAPSFCX                                                              .947655762                                                                                                                         
+GDM_INDEX_NE                                                         .993707854                                                                                                                         
+HDM_DATA_DPF                                                           .8280625                                                                                                                         
+HDM_INDEX_BI                                                         .923798828                                                                                                                         
+HDM_DATA_DPF                                                         .953678679                                                                                                                         
+HDM_DATA_DPF                                                           .8120625                                                                                                                         
+********************************
+
+======================================================
+10/14/18-10:01:26hjzxdb1
+======================================================
+disk used is warning
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg_root-lv_root
+                       49G  883M   45G   2% /
+/dev/mapper/vg_root-lv_var
+                       15G  440M   14G   4% /var
+/dev/mapper/vg_root-lv_usr
+                       15G  4.0G  9.5G  30% /usr
+/dev/mapper/vg_root-lv_opt
+                       19G   12G  6.2G  66% /opt
+/dev/mapper/vg_root-lv_tmp
+                      5.0G  189M  4.5G   4% /tmp
+/dev/mapper/vg_root-lv_home
+                       94G   55G   35G  62% /home
+/dev/mapper/vg_root-lv_ccom
+                       15G  570M   14G   5% /ccom
+/dev/sda1             190M   13M  168M   8% /boot
+tmpfs                 3.9G  4.0K  3.9G   1% /dev/shm
+/dev/mapper/vg_db-lv_db
+                      168G  144G   16G  91% /db
+10.0.3.3:/fileserver  605G  390G  185G  68% /fileserver
+/dev/mapper/vg_app-lv_app
+                       99G   15G   80G  16% /app
+10.0.3.3:/fileserver/zj
+                      605G  390G  185G  68% /zj
+======================================================
+CCBDB log online used is warning
+
+DB_NAME                                                                                                                          TOTAL_LOG_KB         LOG_MAXUSED_PERCENT               MONITOR
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- --------------------------------- -------
+CCBDB                                                                                                                                          611399                      99.330000000 warning
+
+  1 record(s) selected.
+
+======================================================
+CALLDB instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+CALLDB status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+CALLDB log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB40 instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB40 status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB40 log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+**********************************
+
+======================================================
+10/14/18-09:50:03hjzxdb2
+**********************************
+
+======================================================
+10/14/18-09:15:03jgbsdb1
+======================================================
+¥≈≈Ãø’º‰≥¨π˝ 80% on jgbsdb1
+Œƒº˛œµÕ≥	      »›¡ø  “—”√  ø…”√ “—”√%% π“‘ÿµ„
+/dev/mapper/vg_root-lv_root
+                       98G   66G   27G  71% /
+tmpfs                 180G   81G  100G  45% /dev/shm
+/dev/sda2             194M   32M  152M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                       15G  4.1G  9.6G  30% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  541M   14G   4% /var
+/dev/mapper/vg_sdatafile-lv_sdatafile
+                       99G  188M   94G   1% /sdatafile
+/dev/mapper/vg_odatafile-lv_odatafile
+                       99G  188M   94G   1% /odatafile
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G  403M   19G   3% /dbhome
+/dev/mapper/vg_jgbsdbflash-lv_jgbsdbflash
+                       30G  3.3G   25G  12% /jgbsdb/flash_recovery_area
+/dev/mapper/vg_jgbsdblogredoa-lv_jgbsdblogredoa
+                       15G  7.6G  6.5G  54% /jgbsdb/oralog/redoa
+/dev/mapper/vg_jgbsdblogredob-lv_jgbsdblogredob
+                       15G  7.7G  6.4G  55% /jgbsdb/oralog/redob
+/dev/mapper/vg_jgbsdblogarc-lv_jgbsdblogarc
+                       99G  188M   94G   1% /jgbsdb/oralog/arc
+/dev/mapper/vg_jgbsdbbak-lv_jgbsdbbak
+                      975G  555G  371G  60% /jgbsdb/orabak
+/dev/mapper/vg_jgbsdbdat-lv_jgbsdbdat
+                      4.8T  3.7T  923G  81% /jgbsdb/oradat
+/dev/mapper/vg_jgbsdbfilebak-lv_jgbsdbfilebak
+                      886G  575G  267G  69% /jgbsdb/filebak
+/dev/mapper/vg_jgbsdba-lv_jgbsdba
+                       50G  180M   47G   1% /home/jgbsdba
+/dev/mapper/vg_root-lv_ccom
+                       15G  7.5G  6.6G  54% /ccom
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+        63                                                                      
+********************************
+
+======================================================
+10/14/18-09:45:03jgbsdb1.east
+======================================================
+¥≈≈Ãø’º‰≥¨π˝ 80% on jgbsdb1.east
+Œƒº˛œµÕ≥	      »›¡ø  “—”√  ø…”√ “—”√%% π“‘ÿµ„
+/dev/mapper/vg_root-lv_root
+                       98G   66G   27G  71% /
+tmpfs                 180G   81G  100G  45% /dev/shm
+/dev/sda2             194M   32M  152M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                       15G  4.1G  9.6G  30% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  541M   14G   4% /var
+/dev/mapper/vg_sdatafile-lv_sdatafile
+                       99G  188M   94G   1% /sdatafile
+/dev/mapper/vg_odatafile-lv_odatafile
+                       99G  188M   94G   1% /odatafile
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G  403M   19G   3% /dbhome
+/dev/mapper/vg_jgbsdbflash-lv_jgbsdbflash
+                       30G  3.3G   25G  12% /jgbsdb/flash_recovery_area
+/dev/mapper/vg_jgbsdblogredoa-lv_jgbsdblogredoa
+                       15G  7.6G  6.5G  54% /jgbsdb/oralog/redoa
+/dev/mapper/vg_jgbsdblogredob-lv_jgbsdblogredob
+                       15G  7.7G  6.4G  55% /jgbsdb/oralog/redob
+/dev/mapper/vg_jgbsdblogarc-lv_jgbsdblogarc
+                       99G  188M   94G   1% /jgbsdb/oralog/arc
+/dev/mapper/vg_jgbsdbbak-lv_jgbsdbbak
+                      975G  556G  370G  61% /jgbsdb/orabak
+/dev/mapper/vg_jgbsdbdat-lv_jgbsdbdat
+                      4.8T  3.7T  923G  81% /jgbsdb/oradat
+/dev/mapper/vg_jgbsdbfilebak-lv_jgbsdbfilebak
+                      886G  575G  267G  69% /jgbsdb/filebak
+/dev/mapper/vg_jgbsdba-lv_jgbsdba
+                       50G  180M   47G   1% /home/jgbsdba
+/dev/mapper/vg_root-lv_ccom
+                       15G  7.5G  6.6G  54% /ccom
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+       153                                                                      
+======================================================
+ø…”√±Ìø’º‰µÕ”⁄∞Ÿ∑÷÷Æ∂˛ Æ
+EAST                                                                 .800730164                                                                                                                         
+********************************
+
+======================================================
+10/14/18-09:30:02jgbsdb1.fxq
+======================================================
+¥≈≈Ãø’º‰≥¨π˝ 80% on jgbsdb1.fxq
+Œƒº˛œµÕ≥	      »›¡ø  “—”√  ø…”√ “—”√%% π“‘ÿµ„
+/dev/mapper/vg_root-lv_root
+                       98G   66G   27G  71% /
+tmpfs                 180G   81G  100G  45% /dev/shm
+/dev/sda2             194M   32M  152M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                       15G  4.1G  9.6G  30% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  541M   14G   4% /var
+/dev/mapper/vg_sdatafile-lv_sdatafile
+                       99G  188M   94G   1% /sdatafile
+/dev/mapper/vg_odatafile-lv_odatafile
+                       99G  188M   94G   1% /odatafile
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G  403M   19G   3% /dbhome
+/dev/mapper/vg_jgbsdbflash-lv_jgbsdbflash
+                       30G  3.3G   25G  12% /jgbsdb/flash_recovery_area
+/dev/mapper/vg_jgbsdblogredoa-lv_jgbsdblogredoa
+                       15G  7.6G  6.5G  54% /jgbsdb/oralog/redoa
+/dev/mapper/vg_jgbsdblogredob-lv_jgbsdblogredob
+                       15G  7.7G  6.4G  55% /jgbsdb/oralog/redob
+/dev/mapper/vg_jgbsdblogarc-lv_jgbsdblogarc
+                       99G  188M   94G   1% /jgbsdb/oralog/arc
+/dev/mapper/vg_jgbsdbbak-lv_jgbsdbbak
+                      975G  556G  370G  61% /jgbsdb/orabak
+/dev/mapper/vg_jgbsdbdat-lv_jgbsdbdat
+                      4.8T  3.7T  923G  81% /jgbsdb/oradat
+/dev/mapper/vg_jgbsdbfilebak-lv_jgbsdbfilebak
+                      886G  575G  267G  69% /jgbsdb/filebak
+/dev/mapper/vg_jgbsdba-lv_jgbsdba
+                       50G  180M   47G   1% /home/jgbsdba
+/dev/mapper/vg_root-lv_ccom
+                       15G  7.5G  6.6G  54% /ccom
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+        29                                                                      
+********************************
+
+======================================================
+10/14/18-10:16:05nhda1
+***********************************
+
+======================================================
+10/14/18-09:38:05nhzdp2
+***************************************
+
+======================================================
+10/14/18-10:00:06pmadb1
+======================================================
+disk used over 80% 
+Êñá‰ª∂Á≥ªÁªü	      ÂÆπÈáè  Â∑≤Áî®  ÂèØÁî® Â∑≤Áî®%% ÊåÇËΩΩÁÇπ
+/dev/mapper/vg_root-lv_root
+                       49G   21G   25G  46% /
+tmpfs                 253G  368K  253G   1% /dev/shm
+/dev/sda2             194M   33M  152M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                      9.7G  4.1G  5.1G  45% /usr
+/dev/mapper/vg_root-lv_var
+                      9.7G  357M  8.8G   4% /var
+/dev/mapper/vg_dbhome-lv_dbhome
+                      9.9G  151M  9.2G   2% /dbhome
+/dev/mapper/vg_pmadbdir-lv_pmadbdir
+                       30G  9.8G   19G  35% /pmadb/dir
+/dev/mapper/vg_pmadbdat-lv_pmadbdat
+                      3.8T  3.1T  464G  88% /pmadb/dat
+/dev/mapper/vg_pmadblog-lv_pmadblog
+                       99G   21G   73G  23% /pmadb/log
+/dev/mapper/vg_pmadbbak-lv_pmadbbak
+                      296G  156G  125G  56% /pmadb/bak
+/dev/mapper/vg_pmadbftp-lv_pmadbftp
+                       97G   55G   37G  60% /pmadb/ftpuser
+======================================================
+PMADB tablespace used is warning
+======================================================
+PMADB log online used is warning
+
+DB_NAME                                                                                                                          TOTAL_LOG_KB         LOG_MAXUSED_PERCENT               MONITOR
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- --------------------------------- -------
+PMADB                                                                                                                                        61139999                      99.170000000 warning
+
+  1 record(s) selected.
+
+***************************************
+
+======================================================
+10/14/18-10:09:03rlzy11
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+        85                                                                      
+********************************
+
+======================================================
+10/14/18-09:30:05sjyh1
+======================================================
+disk used over 80% 
+Êñá‰ª∂Á≥ªÁªü	      ÂÆπÈáè  Â∑≤Áî®  ÂèØÁî® Â∑≤Áî®%% ÊåÇËΩΩÁÇπ
+/dev/mapper/vg_root-lv_root
+                       49G  5.5G   41G  12% /
+tmpfs                  16G  264K   16G   1% /dev/shm
+/dev/sdaw1            194M   36M  149M  20% /boot
+/dev/mapper/vg_root-lv_home
+                      9.7G  151M  9.0G   2% /home
+/dev/mapper/vg_root-lv_opt
+                      9.7G  1.2G  8.0G  13% /opt
+/dev/mapper/vg_root-lv_tmp
+                       15G  198M   14G   2% /tmp
+/dev/mapper/vg_root-lv_usr
+                       20G  7.5G   12G  40% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  681M   14G   5% /var
+/dev/mapper/vg_root-lv_ccom
+                       15G  445M   14G   4% /ccom
+/dev/mapper/vg_froadmbdbhome-lv_froadmbdbhome
+                       15G  2.9G   12G  21% /froadmbdb/home
+/dev/mapper/vg_froadmbdbdir-lv_froadmbdbdir
+                      9.9G  879M  8.5G  10% /froadmbdb/dir
+/dev/mapper/vg_froadmbdbdata-lv_froadmbdbdata
+                      296G   39G  243G  14% /froadmbdb/data
+/dev/mapper/vg_froadmbdbblog-lv_froadmbdbblog
+                       49G   37G  8.9G  81% /froadmbdb/log
+/dev/mapper/vg_froadmbdbbak-lv_froadmbdbbak
+                      296G  131G  150G  47% /froadmbdb/bak
+/dev/mapper/vg_sjyhapp-lv_sjyhapp
+                      197G   61G  127G  33% /sjyhapp/froadmb
+***************************************
+
+======================================================
+10/14/18-10:09:11tyzfdb1
+======================================================
+alert log is warning
+======================================================
+invalid object alarm
+        79                                                                      
+********************************
+
+======================================================
+10/14/18-10:09:03xdx1
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+         3                                                                      
+********************************
+
+======================================================
+10/14/18-10:10:05xgdb1
+======================================================
+used over 80
+======================================================
+HLJNX instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HLJNX status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HLJNX log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+****************************************laoxinguan***
+
+======================================================
+10/14/18-10:16:08xghsdb1
+******************************************
+
+======================================================
+10/14/18-10:11:02ygzdb2
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+         1                                                                      
+********************************
+
+======================================================
+10/14/18-09:35:04yxptdb2
+***************************************
+
+======================================================
+10/14/18-10:11:03zhqz1
+******************************************
+
+======================================================
+10/14/18-10:10:03zjgldb2
+**********************************
+
+======================================================
+10/14/18-09:40:05zx1
+***************************************
+26

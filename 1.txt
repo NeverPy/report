@@ -1,0 +1,663 @@
+
+======================================================
+11/21/18-09:44:16Jkdb1
+======================================================
+disk used is warning
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg_root-lv_root
+                      499G  438G   36G  93% /
+/dev/mapper/vg_root-lv_usr
+                       15G  4.2G  9.3G  31% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  370M   14G   3% /var
+/dev/sda1             190M   21M  160M  12% /boot
+tmpfs                 3.7G  4.0K  3.7G   1% /dev/shm
+none                  3.7G  104K  3.7G   1% /var/lib/xenstored
+**********************************
+
+======================================================
+11/21/18-09:30:03cgdb2
+======================================================
+无效对象告警
+         6                                                                      
+********************************
+
+======================================================
+11/21/18-10:10:04ecifdb2
+======================================================
+无效对象告警
+         4                                                                      
+======================================================
+可用表空间低于百分之二十
+ECIF_INDEX                                                           .847385125                                                                                                                         
+ECIF                                                                 .865516281                                                                                                                         
+********************************
+
+======================================================
+11/21/18-09:40:05fpserver1
+**********************************
+
+======================================================
+11/21/18-10:10:03gj1
+********************************
+
+======================================================
+11/21/18-09:52:03gjjapp1
+**********************************
+
+======================================================
+11/21/18-09:18:16glkjdb1
+======================================================
+used over 80
+Filesystem    GB blocks      Free %Used    Iused %Iused Mounted on
+/dev/hd4           5.00      4.81    4%    10497     1% /
+/dev/hd2           5.00      1.99   61%    47834    10% /usr
+/dev/hd9var        5.00      4.62    8%     6723     1% /var
+/dev/hd3           5.00      3.85   24%      303     1% /tmp
+/dev/hd1          10.00     10.00    1%       24     1% /home
+/dev/hd11admin      0.50      0.50    1%        5     1% /admin
+/proc                 -         -    -         -     -  /proc
+/dev/hd10opt      10.00      7.82   22%    15644     1% /opt
+/dev/livedump      0.50      0.50    1%        4     1% /var/adm/ras/livedump
+/dev/lv_dbhome     95.00     94.98    1%       52     1% /dbhome
+/dev/lv_glkjdbdir    330.00    274.19   17%     3902     1% /glkjdb/dir
+/dev/lv_glkjdbdat  16000.00   3874.53   76%    25886     1% /glkjdb/dat
+/dev/lv_glkjdblog   2300.00    797.81   66%     3876     1% /glkjdb/log
+/dev/lv_glkjdbbak      9.00      1.77   81%     9736     3% /glkjdb/bak
+/dev/lv_ftpnc65    950.00    317.42   67%     1007     1% /home/ftpnc65
+*****************************************
+
+======================================================
+11/21/18-10:03:01hdp1
+======================================================
+报警日志错误
+======================================================
+磁盘空间超过 80% on hdp1
+文件系统	      容量  已用  可用 已用%% 挂载点
+/dev/mapper/vg_root-lv_root
+                       49G   14G   32G  31% /
+tmpfs                 253G   84G  169G  34% /dev/shm
+/dev/sda2             194M   32M  153M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                      9.7G  4.2G  5.0G  46% /usr
+/dev/mapper/vg_root-lv_var
+                      9.7G  462M  8.7G   5% /var
+/dev/mapper/vg_root-lv_oracle
+                       50G   26G   22G  54% /oracle
+/dev/mapper/vg_backup-lv_backup
+                      2.6T  525G  2.0T  21% /backup
+/dev/mapper/vg_datanew-lv_datanew
+                       14T   13T  207G  99% /oradata
+/dev/mapper/vg_data1-lv_data1
+                      6.0T  4.3T  1.4T  76% /data1
+/dev/mapper/vg_data2-lv_data2
+                      5.2T  3.6T  1.4T  74% /data2
+/dev/mapper/vg_data3-lv_data3
+                      6.1T  4.4T  1.4T  76% /data3
+/dev/mapper/vg_data4-lv_data4
+                      7.3T  4.3T  2.7T  62% /data4
+/dev/mapper/vg_data5-lv_data5
+                      4.5T  3.2T  1.2T  75% /data5
+/dev/mapper/vg_data6-lv_data6
+                      9.4T  8.3T  659G  93% /data6
+/dev/mapper/vg_ckbx-lv_ckbx
+                      9.2T  5.8T  3.0T  66% /ckbx
+======================================================
+无效对象告警
+       249                                                                      
+======================================================
+session连接告警,session= 315
+       315                                                                      
+======================================================
+可用表空间低于百分之二十
+HDM_DATA_DPF                                                         .817533784                                                                                                                         
+HDM_INDEX_BI                                                         .895853125                                                                                                                         
+ODM_INDEX                                                            .830954654                                                                                                                         
+HDM_DATA                                                             .962397773                                                                                                                         
+HDM_INDEX_BI                                                            .876235                                                                                                                         
+HDM_INDEX_DP                                                         .885744444                                                                                                                         
+HDM_DATA_DPF                                                           .8200625                                                                                                                         
+HDM_DATA_DPF                                                           .9000625                                                                                                                         
+HDM_DATA_DPF                                                           .9160625                                                                                                                         
+HDM_DATA_DPF                                                         .881571948                                                                                                                         
+DAPSFCX                                                              .948134766                                                                                                                         
+DAPGACX_DATA                                                         .998553819                                                                                                                         
+HDM_DATA_DPF                                                           .8280625                                                                                                                         
+HDM_INDEX_BI                                                         .923798828                                                                                                                         
+HDM_DATA_DPF                                                         .980555556                                                                                                                         
+HDM_DATA_DPF                                                           .8120625                                                                                                                         
+********************************
+
+======================================================
+11/21/18-10:01:27hjzxdb1
+======================================================
+disk used is warning
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg_root-lv_root
+                       49G  883M   45G   2% /
+/dev/mapper/vg_root-lv_var
+                       15G  439M   14G   4% /var
+/dev/mapper/vg_root-lv_usr
+                       15G  4.0G  9.5G  30% /usr
+/dev/mapper/vg_root-lv_opt
+                       19G   12G  6.2G  66% /opt
+/dev/mapper/vg_root-lv_tmp
+                      5.0G  189M  4.5G   4% /tmp
+/dev/mapper/vg_root-lv_home
+                       94G   55G   35G  62% /home
+/dev/mapper/vg_root-lv_ccom
+                       15G  572M   14G   5% /ccom
+/dev/sda1             190M   13M  168M   8% /boot
+tmpfs                 3.9G  4.0K  3.9G   1% /dev/shm
+/dev/mapper/vg_db-lv_db
+                      168G  148G   12G  93% /db
+10.0.3.3:/fileserver  605G  473G  102G  83% /fileserver
+/dev/mapper/vg_app-lv_app
+                       99G   15G   80G  16% /app
+10.0.3.3:/fileserver/zj
+                      605G  473G  102G  83% /zj
+======================================================
+CCBDB log online used is warning
+
+DB_NAME                                                                                                                          TOTAL_LOG_KB         LOG_MAXUSED_PERCENT               MONITOR
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- --------------------------------- -------
+CCBDB                                                                                                                                          611399                      99.330000000 warning
+
+  1 record(s) selected.
+
+======================================================
+CALLDB instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+CALLDB status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+CALLDB log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB40 instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB40 status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB40 log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+**********************************
+
+======================================================
+11/21/18-09:50:04hjzxdb2
+======================================================
+CALLDB log online used is warning
+
+DB_NAME                                                                                                                          TOTAL_LOG_KB         LOG_MAXUSED_PERCENT               MONITOR
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- --------------------------------- -------
+CALLDB                                                                                                                                         570639                      99.360000000 warning
+
+  1 record(s) selected.
+
+**********************************
+
+======================================================
+11/21/18-09:54:06hrbtc1
+======================================================
+HRBTCDBA instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HRBTCDBA status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HRBTCDBA log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HRBTC instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HRBTC status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HRBTC log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+**********************************
+
+======================================================
+11/21/18-09:15:04jgbsdb1
+======================================================
+报警日志错误
+======================================================
+磁盘空间超过 80% on jgbsdb1
+文件系统	      容量  已用  可用 已用%% 挂载点
+/dev/mapper/vg_root-lv_root
+                       98G   69G   24G  75% /
+tmpfs                 180G   80G  101G  45% /dev/shm
+/dev/sda2             194M   32M  152M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                       15G  4.2G  9.6G  31% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  547M   14G   4% /var
+/dev/mapper/vg_sdatafile-lv_sdatafile
+                       99G  188M   94G   1% /sdatafile
+/dev/mapper/vg_odatafile-lv_odatafile
+                       99G  188M   94G   1% /odatafile
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G  930M   18G   5% /dbhome
+/dev/mapper/vg_jgbsdbflash-lv_jgbsdbflash
+                       30G  3.3G   25G  12% /jgbsdb/flash_recovery_area
+/dev/mapper/vg_jgbsdblogredoa-lv_jgbsdblogredoa
+                       15G  7.6G  6.5G  54% /jgbsdb/oralog/redoa
+/dev/mapper/vg_jgbsdblogredob-lv_jgbsdblogredob
+                       15G  7.7G  6.4G  55% /jgbsdb/oralog/redob
+/dev/mapper/vg_jgbsdblogarc-lv_jgbsdblogarc
+                       99G  188M   94G   1% /jgbsdb/oralog/arc
+/dev/mapper/vg_jgbsdbbak-lv_jgbsdbbak
+                      975G  559G  367G  61% /jgbsdb/orabak
+/dev/mapper/vg_jgbsdbdat-lv_jgbsdbdat
+                      4.8T  3.7T  873G  82% /jgbsdb/oradat
+/dev/mapper/vg_jgbsdbfilebak-lv_jgbsdbfilebak
+                      886G  575G  267G  69% /jgbsdb/filebak
+/dev/mapper/vg_jgbsdba-lv_jgbsdba
+                       50G  180M   47G   1% /home/jgbsdba
+/dev/mapper/vg_root-lv_ccom
+                       15G  7.5G  6.6G  54% /ccom
+======================================================
+无效对象告警
+        63                                                                      
+********************************
+
+======================================================
+11/21/18-09:45:04jgbsdb1.east
+======================================================
+报警日志错误
+======================================================
+磁盘空间超过 80% on jgbsdb1.east
+文件系统	      容量  已用  可用 已用%% 挂载点
+/dev/mapper/vg_root-lv_root
+                       98G   69G   24G  75% /
+tmpfs                 180G   80G  101G  45% /dev/shm
+/dev/sda2             194M   32M  152M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                       15G  4.2G  9.6G  31% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  547M   14G   4% /var
+/dev/mapper/vg_sdatafile-lv_sdatafile
+                       99G  188M   94G   1% /sdatafile
+/dev/mapper/vg_odatafile-lv_odatafile
+                       99G  188M   94G   1% /odatafile
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G  930M   18G   5% /dbhome
+/dev/mapper/vg_jgbsdbflash-lv_jgbsdbflash
+                       30G  3.3G   25G  12% /jgbsdb/flash_recovery_area
+/dev/mapper/vg_jgbsdblogredoa-lv_jgbsdblogredoa
+                       15G  7.6G  6.5G  54% /jgbsdb/oralog/redoa
+/dev/mapper/vg_jgbsdblogredob-lv_jgbsdblogredob
+                       15G  7.7G  6.4G  55% /jgbsdb/oralog/redob
+/dev/mapper/vg_jgbsdblogarc-lv_jgbsdblogarc
+                       99G  188M   94G   1% /jgbsdb/oralog/arc
+/dev/mapper/vg_jgbsdbbak-lv_jgbsdbbak
+                      975G  559G  367G  61% /jgbsdb/orabak
+/dev/mapper/vg_jgbsdbdat-lv_jgbsdbdat
+                      4.8T  3.7T  873G  82% /jgbsdb/oradat
+/dev/mapper/vg_jgbsdbfilebak-lv_jgbsdbfilebak
+                      886G  575G  267G  69% /jgbsdb/filebak
+/dev/mapper/vg_jgbsdba-lv_jgbsdba
+                       50G  180M   47G   1% /home/jgbsdba
+/dev/mapper/vg_root-lv_ccom
+                       15G  7.5G  6.6G  54% /ccom
+======================================================
+无效对象告警
+       153                                                                      
+********************************
+
+======================================================
+11/21/18-09:30:03jgbsdb1.fxq
+======================================================
+报警日志错误
+======================================================
+磁盘空间超过 80% on jgbsdb1.fxq
+文件系统	      容量  已用  可用 已用%% 挂载点
+/dev/mapper/vg_root-lv_root
+                       98G   69G   24G  75% /
+tmpfs                 180G   80G  101G  45% /dev/shm
+/dev/sda2             194M   32M  152M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                       15G  4.2G  9.6G  31% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  547M   14G   4% /var
+/dev/mapper/vg_sdatafile-lv_sdatafile
+                       99G  188M   94G   1% /sdatafile
+/dev/mapper/vg_odatafile-lv_odatafile
+                       99G  188M   94G   1% /odatafile
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G  930M   18G   5% /dbhome
+/dev/mapper/vg_jgbsdbflash-lv_jgbsdbflash
+                       30G  3.3G   25G  12% /jgbsdb/flash_recovery_area
+/dev/mapper/vg_jgbsdblogredoa-lv_jgbsdblogredoa
+                       15G  7.6G  6.5G  54% /jgbsdb/oralog/redoa
+/dev/mapper/vg_jgbsdblogredob-lv_jgbsdblogredob
+                       15G  7.7G  6.4G  55% /jgbsdb/oralog/redob
+/dev/mapper/vg_jgbsdblogarc-lv_jgbsdblogarc
+                       99G  188M   94G   1% /jgbsdb/oralog/arc
+/dev/mapper/vg_jgbsdbbak-lv_jgbsdbbak
+                      975G  559G  367G  61% /jgbsdb/orabak
+/dev/mapper/vg_jgbsdbdat-lv_jgbsdbdat
+                      4.8T  3.7T  873G  82% /jgbsdb/oradat
+/dev/mapper/vg_jgbsdbfilebak-lv_jgbsdbfilebak
+                      886G  575G  267G  69% /jgbsdb/filebak
+/dev/mapper/vg_jgbsdba-lv_jgbsdba
+                       50G  180M   47G   1% /home/jgbsdba
+/dev/mapper/vg_root-lv_ccom
+                       15G  7.5G  6.6G  54% /ccom
+======================================================
+无效对象告警
+        29                                                                      
+********************************
+
+======================================================
+11/21/18-10:16:04nhda1
+***********************************
+
+======================================================
+11/21/18-09:38:06nhzdp2
+***************************************
+
+======================================================
+11/21/18-10:00:06pmadb1
+======================================================
+disk used over 80% 
+鏂囦欢绯荤粺	      瀹归噺  宸茬敤  鍙鐢 宸茬敤%% 鎸傝浇鐐
+/dev/mapper/vg_root-lv_root
+                       49G   22G   25G  47% /
+tmpfs                 253G  368K  253G   1% /dev/shm
+/dev/sda2             194M   33M  152M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                      9.7G  4.1G  5.1G  45% /usr
+/dev/mapper/vg_root-lv_var
+                      9.7G  356M  8.8G   4% /var
+/dev/mapper/vg_dbhome-lv_dbhome
+                      9.9G  151M  9.2G   2% /dbhome
+/dev/mapper/vg_pmadbdir-lv_pmadbdir
+                       30G   14G   15G  49% /pmadb/dir
+/dev/mapper/vg_pmadbdat-lv_pmadbdat
+                      3.8T  3.1T  464G  88% /pmadb/dat
+/dev/mapper/vg_pmadblog-lv_pmadblog
+                      291G  161G  116G  59% /pmadb/log
+/dev/mapper/vg_pmadbbak-lv_pmadbbak
+                      296G  252G   29G  90% /pmadb/bak
+/dev/mapper/vg_pmadbftp-lv_pmadbftp
+                       97G   36G   56G  40% /pmadb/ftpuser
+======================================================
+PMADB tablespace used is warning
+PMA_DATA_TBS_32K                                        2912.674                          2563.272                      88.004000000 DMS        LARGE             manual                    32768        131072.00
+PMA_IDX_TBS_32K                                          194.876                            79.642                      40.868000000 DMS        LARGE             manual                    32768        131072.00
+PMA_COM_TBS_32K                                           50.000                             0.002                       0.006000000 DMS        LARGE             manual                    32768        131072.00
+***************************************
+
+======================================================
+11/21/18-10:09:03rlzy11
+======================================================
+无效对象告警
+        86                                                                      
+********************************
+
+======================================================
+11/21/18-09:30:04sjyh1
+***************************************
+
+======================================================
+11/21/18-10:09:04tyzfdb1
+======================================================
+invalid object alarm
+        79                                                                      
+********************************
+
+======================================================
+11/21/18-10:09:02xdx1
+======================================================
+磁盘空间超过 80% on xdx1
+文件系统	      容量  已用  可用 已用%% 挂载点
+/dev/mapper/vg_root-lv_root
+                       99G   13G   82G  14% /
+tmpfs                  41G   21G   21G  50% /dev/shm
+/dev/sdck1            194M   34M  151M  19% /boot
+/dev/mapper/vg_root-lv_usr
+                       15G  7.2G  6.6G  53% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  622M   14G   5% /var
+/dev/mapper/vg_root-lv_ccom
+                       15G  454M   14G   4% /ccom
+/dev/mapper/vg_root-lv_orabase
+                       50G   14G   33G  30% /oracle
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G  5.3G   14G  29% /dbhome
+/dev/mapper/vg_fmsdbdat-lv_fmsdbddat
+                      629G  479G  119G  81% /fmsdb/oradat
+/dev/mapper/vg_fmsdbflash-lv_fmsdbflash
+                       30G  182M   28G   1% /fmsdb/flash_recovery_area
+/dev/mapper/vg_fmsdblogredoa-lv_fmsdblogredoa
+                      9.9G  2.2G  7.3G  23% /fmsdb/oralog/redoa
+/dev/mapper/vg_fmsdblogredob-lv_fmsdblogredob
+                      9.9G  2.2G  7.3G  23% /fmsdb/oralog/redob
+/dev/mapper/vg_fmsdblogarc-lv_fmsdblogarc
+                       50G  2.2G   45G   5% /fmsdb/oralog/arc
+/dev/mapper/vg_fmsdbbak-lv_fmsdbbak
+                      295G   91G  189G  33% /fmsdb/orabak
+/dev/mapper/vg_fms-lv_fms
+                       98G   74G   20G  80% /home/fms
+/dev/mapper/vg_jboss-lv_jboss
+                       30G   11G   17G  40% /home/jboss
+/dev/mapper/vg_was-lv_was
+                       30G  172M   28G   1% /opt/IBM/Websphere
+/dev/mapper/vg_call-lv_call
+                      8.9G 1006M  7.5G  12% /home/call
+======================================================
+无效对象告警
+         3                                                                      
+======================================================
+可用表空间低于百分之二十
+SMSWW                                                                .819330226                                                                                                                         
+********************************
+
+======================================================
+11/21/18-10:10:11xgdb1
+======================================================
+used over 80
+======================================================
+HLJNX instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HLJNX status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HLJNX log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+****************************************laoxinguan***
+
+======================================================
+11/21/18-10:16:09xghsdb1
+======================================================
+HLJLOAN tablespace used is warning
+USERSPACE1                                                 1.000                             0.819                      81.934000000 DMS        LARGE             manual                     8192         32768.00
+TSINFO                                                    27.843                             0.003                       0.012000000 DMS        LARGE             manual                     8192         32768.00
+******************************************
+
+======================================================
+11/21/18-10:11:10ygzdb2
+======================================================
+无效对象告警
+         1                                                                      
+********************************
+
+======================================================
+11/21/18-09:35:04yxptdb2
+***************************************
+
+======================================================
+11/21/18-09:52:04zhlcdb2
+**********************************
+
+======================================================
+11/21/18-10:11:04zhqz1
+======================================================
+used over 80
+Filesystem    GB blocks      Free %Used    Iused %Iused Mounted on
+/dev/hd4          20.00      8.97   56%    13783     1% /
+/dev/hd2           5.50      0.81   86%    69538    25% /usr
+/dev/hd9var       10.00      5.66   44%     8507     1% /var
+/dev/hd3           5.00      1.23   76%     4381     2% /tmp
+/dev/hd1          20.00     18.92    6%       46     1% /home
+/dev/hd11admin      0.50      0.50    1%        5     1% /admin
+/proc                 -         -    -         -     -  /proc
+/dev/hd10opt      10.00      5.38   47%    20122     2% /opt
+/dev/livedump      0.50      0.49    3%       64     1% /var/adm/ras/livedump
+/aha                  -         -    -        53     1% /aha
+/dev/lv_db2_32bak   1200.00    459.96   62%       16     1% /db2_32/bak
+/dev/lv_db2_32dat    800.00    621.37   23%       59     1% /db2_32/dat
+/dev/lv_db2_32dir     10.00      7.05   30%      123     1% /db2_32/dir
+/dev/lv_db2_32log    300.00    226.32   25%     1902     1% /db2_32/log
+/dev/lv_dbhome     30.00     26.25   13%      567     1% /dbhome
+/dev/lv_gaps32    500.00    159.53   69%  2971654     8% /home/gaps32
+/dev/lv_gxp2      80.00     49.58   39%     1381     1% /home/gxp2
+/dev/lv_mqhadata     20.00     18.79    7%     1409     1% /var/mqm
+******************************************
+
+======================================================
+11/21/18-10:10:04zjgldb2
+======================================================
+disk used is warning
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg_root-lv_root
+                       49G  2.2G   44G   5% /
+tmpfs                  24G  100K   24G   1% /dev/shm
+/dev/sda2             194M   32M  153M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                      9.7G  4.2G  5.0G  46% /usr
+/dev/mapper/vg_root-lv_var
+                      9.7G  397M  8.8G   5% /var
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G   12G  7.1G  63% /dbhome
+/dev/mapper/vg_zjgldbdir-lv_zjgldbdir
+                       20G  229M   19G   2% /zjgldb/dir
+/dev/mapper/vg_zjgldbdat-lv_zjgldbdat
+                      788G  9.8G  738G   2% /zjgldb/dat
+/dev/mapper/vg_zjgldblog-lv_zjgldblog
+                       50G   19G   29G  39% /zjgldb/log
+/dev/mapper/vg_zjgldbbak-lv_zjgldbbak
+                      394G   48G  327G  13% /zjgldb/bak
+/dev/mapper/vg_ticm-lv_ticm
+                       30G  176M   28G   1% /home/ticm
+/dev/mapper/vg_winddir-lv_winddir
+                       19G  4.6G   14G  26% /wind/dir
+/dev/mapper/vg_winddat-lv_winddat
+                      295G  6.2G  274G   3% /wind/dat
+/dev/mapper/vg_windlog-lv_windlog
+                       49G   38G  8.6G  82% /wind/log
+/dev/mapper/vg_windbak-lv_windbak
+                      314G  9.6G  289G   4% /wind/bak
+/dev/mapper/vg_wind-lv_wind
+                       59G  433M   55G   1% /home/wind
+**********************************
+
+======================================================
+11/21/18-10:12:04zjgldb2
+======================================================
+disk used is warning
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg_root-lv_root
+                       49G  2.2G   44G   5% /
+tmpfs                  24G  100K   24G   1% /dev/shm
+/dev/sda2             194M   32M  153M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                      9.7G  4.2G  5.0G  46% /usr
+/dev/mapper/vg_root-lv_var
+                      9.7G  397M  8.8G   5% /var
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G   12G  7.1G  63% /dbhome
+/dev/mapper/vg_zjgldbdir-lv_zjgldbdir
+                       20G  229M   19G   2% /zjgldb/dir
+/dev/mapper/vg_zjgldbdat-lv_zjgldbdat
+                      788G  9.8G  738G   2% /zjgldb/dat
+/dev/mapper/vg_zjgldblog-lv_zjgldblog
+                       50G   19G   29G  39% /zjgldb/log
+/dev/mapper/vg_zjgldbbak-lv_zjgldbbak
+                      394G   48G  327G  13% /zjgldb/bak
+/dev/mapper/vg_ticm-lv_ticm
+                       30G  176M   28G   1% /home/ticm
+/dev/mapper/vg_winddir-lv_winddir
+                       19G  4.6G   14G  26% /wind/dir
+/dev/mapper/vg_winddat-lv_winddat
+                      295G  6.2G  274G   3% /wind/dat
+/dev/mapper/vg_windlog-lv_windlog
+                       49G   38G  8.6G  82% /wind/log
+/dev/mapper/vg_windbak-lv_windbak
+                      314G  9.6G  289G   4% /wind/bak
+/dev/mapper/vg_wind-lv_wind
+                       59G  433M   55G   1% /home/wind
+======================================================
+WIND instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+WIND status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+WIND log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+**********************************
+
+======================================================
+11/21/18-09:40:05zx1
+***************************************
+30
+
+======================================================
+11/21/18-10:10:03oadb1
+======================================================
+oa报警日志错误
+======================================================
+无效对象告警
+         1                                                                      
+********************************
+ocs:
+
+======================================================
+11/21/18-10:15:02oadb1
+======================================================
+ocs报警日志错误
+********************************
+orcl:
+
+======================================================
+11/21/18-10:20:02oadb1
+======================================================
+orcl报警日志错误
+********************************
+
+======================================================
+11/21/18-10:12:02dzda1
+======================================================
+dzda报警日志错误
+********************************

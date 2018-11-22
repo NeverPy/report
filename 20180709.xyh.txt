@@ -1,0 +1,388 @@
+
+======================================================
+07/09/18-09:44:16Jkdb1
+======================================================
+disk used is warning
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg_root-lv_root
+                      499G  425G   49G  90% /
+/dev/mapper/vg_root-lv_usr
+                       15G  4.2G  9.3G  31% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  369M   14G   3% /var
+/dev/sda1             190M   21M  160M  12% /boot
+tmpfs                 3.7G  4.0K  3.7G   1% /dev/shm
+none                  3.7G  104K  3.7G   1% /var/lib/xenstored
+**********************************
+
+======================================================
+07/09/18-09:30:02cgdb2
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+         6                                                                      
+======================================================
+ø…”√±Ìø’º‰µÕ”⁄∞Ÿ∑÷÷Æ∂˛ Æ
+NNC_INDEX03                                                          .826353624                                                                                                                         
+NNC_DATA01                                                           .802284604                                                                                                                         
+NNC_DATA03                                                           .818100993                                                                                                                         
+********************************
+
+======================================================
+07/09/18-10:10:04ecifdb2
+======================================================
+¥≈≈Ãø’º‰≥¨π˝ 80% on ecifdb2
+Œƒº˛œµÕ≥	      »›¡ø  “—”√  ø…”√ “—”√%% π“‘ÿµ„
+/dev/mapper/vg_root-lv_root
+                       99G   20G   74G  22% /
+tmpfs                 127G   44G   83G  35% /dev/shm
+/dev/mapper/36848f690ee81e800192fb5091b1f39b1p1
+                      194M   37M  147M  20% /boot
+/dev/mapper/vg_root-lv_sur
+                       15G  7.5G  6.3G  55% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  793M   13G   6% /var
+/dev/mapper/vg_root-lv_ccom
+                       15G  461M   14G   4% /ccom
+/dev/mapper/vg_bksvrdbbak-lv_bksvrdbbak
+                      788G  139G  610G  19% /u01/orabak
+/dev/mapper/vg_bksvrdbdat-lv_bksvrdbdata
+                      788G  671G   77G  90% /u01/oradata
+/dev/mapper/vg_bksvrdbflash-lv_bksvrdbflash
+                       30G  228M   28G   1% /u01/flash_recovery_area
+/dev/mapper/vg_bksvrdblogarc-lv_bksvrdblogarc
+                       30G  172M   28G   1% /u01/oralog/arc
+/dev/mapper/vg_bksvrdblogredoa-lv_bksvrdblogredoa
+                      9.9G  6.2G  3.2G  66% /u01/oralog/redoa
+/dev/mapper/vg_bksvrdblogredob-lv_bksvrdblogredob
+                      9.9G  6.2G  3.2G  66% /u01/oralog/redob
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G  427M   19G   3% /dbhome
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+         3                                                                      
+********************************
+
+======================================================
+07/09/18-09:40:04fpserver1
+**********************************
+
+======================================================
+07/09/18-10:10:03gj1
+********************************
+
+======================================================
+07/09/18-10:18:11glkjdb1
+======================================================
+used over 80
+*****************************************
+
+======================================================
+07/09/18-10:02:32hdp1
+======================================================
+±®æØ»’÷æ¥ÌŒÛ
+======================================================
+¥≈≈Ãø’º‰≥¨π˝ 80% on hdp1
+Œƒº˛œµÕ≥	      »›¡ø  “—”√  ø…”√ “—”√%% π“‘ÿµ„
+/dev/mapper/vg_root-lv_root
+                       49G   14G   32G  31% /
+tmpfs                 253G   86G  167G  35% /dev/shm
+/dev/sda2             194M   32M  153M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                      9.7G  4.2G  5.0G  46% /usr
+/dev/mapper/vg_root-lv_var
+                      9.7G  428M  8.8G   5% /var
+/dev/mapper/vg_root-lv_oracle
+                       50G   32G   16G  67% /oracle
+/dev/mapper/vg_backup-lv_backup
+                      2.6T  576G  1.9T  23% /backup
+/dev/mapper/vg_datanew-lv_datanew
+                       14T   13T  459G  97% /oradata
+/dev/mapper/vg_data1-lv_data1
+                      4.4T  3.0T  1.2T  72% /data1
+/dev/mapper/vg_data2-lv_data2
+                      4.3T  3.1T 1008G  76% /data2
+/dev/mapper/vg_data3-lv_data3
+                      4.5T  4.0T  280G  94% /data3
+/dev/mapper/vg_data4-lv_data4
+                      4.5T  2.5T  1.9T  58% /data4
+/dev/mapper/vg_data5-lv_data5
+                      4.5T  2.6T  1.7T  61% /data5
+/dev/mapper/vg_data6-lv_data6
+                      9.4T  6.1T  2.9T  68% /data6
+/dev/mapper/vg_ckbx-lv_ckbx
+                      9.2T  3.7T  5.1T  42% /ckbx
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+       217                                                                      
+======================================================
+session¡¨Ω”∏ÊæØ,session= 320
+       320                                                                      
+======================================================
+ø…”√±Ìø’º‰µÕ”⁄∞Ÿ∑÷÷Æ∂˛ Æ
+HDM_DATA_DPF                                                         .817533784                                                                                                                         
+HDM_INDEX_BI                                                         .895853125                                                                                                                         
+ODM_INDEX                                                            .934642466                                                                                                                         
+HDM_DATA                                                              .90638381                                                                                                                         
+HDM_INDEX_BI                                                            .871755                                                                                                                         
+HDM_DATA_DPF                                                           .8200625                                                                                                                         
+HDM_DATA_DPF                                                           .9000625                                                                                                                         
+HDM_DATA_DPF                                                           .9160625                                                                                                                         
+HDM_DATA_DPF                                                         .881571948                                                                                                                         
+DAPSFCX                                                              .946130371                                                                                                                         
+GDM_INDEX_NE                                                         .979087457                                                                                                                         
+HDM_DATA_DPF                                                           .8280625                                                                                                                         
+HDM_DATA_DPF                                                         .894838589                                                                                                                         
+HDM_DATA_DPF                                                           .9280625                                                                                                                         
+HDM_DATA_DPF                                                           .8120625                                                                                                                         
+********************************
+
+======================================================
+07/09/18-10:01:26hjzxdb1
+======================================================
+CCBDB log online used is warning
+
+DB_NAME                                                                                                                          TOTAL_LOG_KB         LOG_MAXUSED_PERCENT               MONITOR
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- --------------------------------- -------
+CCBDB                                                                                                                                          611399                      99.330000000 warning
+
+  1 record(s) selected.
+
+======================================================
+CALLDB instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+CALLDB status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+CALLDB log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB40 instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB40 status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB40 log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+**********************************
+
+======================================================
+07/09/18-09:50:03hjzxdb2
+**********************************
+
+======================================================
+07/09/18-09:15:03jgbsdb1
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+        66                                                                      
+********************************
+
+======================================================
+07/09/18-09:45:04jgbsdb1.east
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+       153                                                                      
+********************************
+
+======================================================
+07/09/18-09:30:03jgbsdb1.fxq
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+        29                                                                      
+********************************
+
+======================================================
+07/09/18-10:16:04nhda1
+***********************************
+
+======================================================
+07/09/18-09:38:06nhzdp2
+======================================================
+¥≈≈Ãø’º‰≥¨π˝ 80% 
+Œƒº˛œµÕ≥              »›¡ø  “—”√ ø…”√ “—”√% π“‘ÿµ„
+/dev/mapper/vg_root-lv_root
+                       49G  4.3G   42G  10% /
+/dev/mapper/vg_root-lv_var
+                       15G  451M   13G   4% /var
+/dev/mapper/vg_root-lv_usr
+                       15G  5.0G  8.5G  37% /usr
+/dev/sda1             190M   13M  168M   7% /boot
+tmpfs                  16G  4.0K   16G   1% /dev/shm
+/dev/mapper/vg_root-lv_ccom
+                       15G  458M   14G   4% /ccom
+/dev/mapper/vg_dbhome-lv_dbhome
+                       30G  383M   28G   2% /dbhome
+/dev/mapper/vg_nhzddbdir-lv_nhzddbdir
+                       20G  600M   19G   4% /nhzddb/dir
+/dev/mapper/vg_nhzddbdat-lv_nhzddbdat
+                      296G  132G  149G  48% /nhzddb/dat
+/dev/mapper/vg_nhzddblog-lv_nhzddblog
+                       99G   54G   40G  58% /nhzddb/log
+/dev/mapper/vg_nhzddbbak-lv_nhzddbbak
+                      296G  140G  142G  50% /nhzddb/bak
+/dev/mapper/vg_nhzd-lv_nhzd
+                      296G  231G   50G  83% /home/ump
+***************************************
+
+======================================================
+07/09/18-10:00:07pmadb1
+======================================================
+disk used over 80% 
+Êñá‰ª∂Á≥ªÁªü	      ÂÆπÈáè  Â∑≤Áî®  ÂèØÁî® Â∑≤Áî®%% ÊåÇËΩΩÁÇπ
+/dev/mapper/vg_root-lv_root
+                       49G   21G   25G  46% /
+tmpfs                 253G  368K  253G   1% /dev/shm
+/dev/sda2             194M   33M  152M  18% /boot
+/dev/sda1             200M  256K  200M   1% /boot/efi
+/dev/mapper/vg_root-lv_usr
+                      9.7G  4.1G  5.1G  45% /usr
+/dev/mapper/vg_root-lv_var
+                      9.7G  352M  8.8G   4% /var
+/dev/mapper/vg_dbhome-lv_dbhome
+                      9.9G  151M  9.2G   2% /dbhome
+/dev/mapper/vg_pmadbdir-lv_pmadbdir
+                       30G  6.4G   22G  23% /pmadb/dir
+/dev/mapper/vg_pmadbdat-lv_pmadbdat
+                      3.8T  3.1T  464G  88% /pmadb/dat
+/dev/mapper/vg_pmadblog-lv_pmadblog
+                       99G   20G   74G  22% /pmadb/log
+/dev/mapper/vg_pmadbbak-lv_pmadbbak
+                      296G  143G  139G  51% /pmadb/bak
+/dev/mapper/vg_pmadbftp-lv_pmadbftp
+                       97G   71G   22G  77% /pmadb/ftpuser
+======================================================
+PMADB tablespace used is warning
+======================================================
+PMADB log online used is warning
+
+DB_NAME                                                                                                                          TOTAL_LOG_KB         LOG_MAXUSED_PERCENT               MONITOR
+-------------------------------------------------------------------------------------------------------------------------------- -------------------- --------------------------------- -------
+PMADB                                                                                                                                        61139999                      99.170000000 warning
+
+  1 record(s) selected.
+
+***************************************
+
+======================================================
+07/09/18-10:09:04rlzy11
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+        87                                                                      
+********************************
+
+======================================================
+07/09/18-09:30:05sjyh1
+***************************************
+
+======================================================
+07/09/18-10:09:04tyzfdb1
+======================================================
+alert log is warning
+======================================================
+disk usage over than 80% on tyzfdb1
+Êñá‰ª∂Á≥ªÁªü	      ÂÆπÈáè  Â∑≤Áî®  ÂèØÁî® Â∑≤Áî®%% ÊåÇËΩΩÁÇπ
+/dev/mapper/vg_root-lv_root
+                       49G  6.0G   41G  13% /
+tmpfs                 171G   45G  127G  27% /dev/shm
+/dev/sda1             194M   35M  150M  19% /boot
+/dev/mapper/vg_root-lv_usr
+                       15G  7.7G  6.1G  56% /usr
+/dev/mapper/vg_root-lv_var
+                       15G  1.4G   13G  10% /var
+/dev/mapper/vg_root-lv_orabase
+                       50G   14G   33G  30% /oracle
+/dev/mapper/vg_root-lv_ccom
+                       15G  440M   14G   4% /ccom
+/dev/mapper/vg_dbhome-lv_dbhome
+                       20G   12G  7.7G  60% /dbhome
+/dev/mapper/vg_afadbflash-lv_afadbflash
+                       30G  203M   28G   1% /afadb/flash_recovery_flash
+/dev/mapper/vg_afadblogredoa-lv_afadblogredoa
+                      9.9G  6.2G  3.2G  66% /afadb/oralog/redoa
+/dev/mapper/vg_afadblogredob-lv_afadblogredob
+                      9.9G  6.2G  3.2G  66% /afadb/oralog/redob
+/dev/mapper/vg_afadblogarc-lv_afadblogarc
+                      188G   63G  116G  35% /afadb/oralog/arc
+/dev/mapper/vg_afadbbak-lv_afadbbak
+                      286G  136G  136G  50% /afadb/orabak
+/dev/mapper/vg_afadbdat-lv_afadbdat
+                      394G  319G   55G  86% /afadb/oradat
+/dev/mapper/vg_infa-lv_infa
+                      394G  172G  203G  46% /home/infa
+======================================================
+invalid object alarm
+        77                                                                      
+======================================================
+no free space on oracle db
+UNDOTBS2                                                             .900195313                                                                                                                         
+********************************
+
+======================================================
+07/09/18-10:09:02xdx1
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+         3                                                                      
+********************************
+
+======================================================
+07/09/18-10:10:06xgdb1
+======================================================
+used over 80
+======================================================
+HLJNX instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HLJNX status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+HLJNX log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 instance status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 status is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+======================================================
+DB400 log online used is warning
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+****************************************laoxinguan***
+
+======================================================
+07/09/18-10:16:08xghsdb1
+******************************************
+
+======================================================
+07/09/18-10:11:03ygzdb2
+======================================================
+Œﬁ–ß∂‘œÛ∏ÊæØ
+         1                                                                      
+********************************
+
+======================================================
+07/09/18-09:35:04yxptdb1
+***************************************
+
+======================================================
+07/09/18-10:11:03zhqz1
+******************************************
+
+======================================================
+07/09/18-10:10:04zjgldb2
+**********************************
+
+======================================================
+07/09/18-09:40:04zx1
+***************************************
+26
